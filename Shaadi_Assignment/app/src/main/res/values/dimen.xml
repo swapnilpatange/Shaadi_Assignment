@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sp_17">17sp</dimen>
+    <dimen name="margin_left">10dp</dimen>
+    <dimen name="margin_right">10dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+</resources>
